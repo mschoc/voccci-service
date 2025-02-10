@@ -34,4 +34,7 @@ To start the application:
 
 ## Environment Setup
 
-Create a `.env` file in the root directory with the following variables: 
+Create a `.env` file in the root directory with the following variables:
+- DATABASE_URL="postgresql://user:password@localhost:5432/voccci_db"
+- OPENAI_API_KEY="your-openai-api-key"
+- JWT_SECRET="your-jwt-secret"
