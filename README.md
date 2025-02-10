@@ -1,4 +1,4 @@
-# Vocci API
+# Voccci API
 
 A RESTful API service that extracts vocabulary word pairs (German-Italian) from images using OpenAI's vision capabilities.
 
